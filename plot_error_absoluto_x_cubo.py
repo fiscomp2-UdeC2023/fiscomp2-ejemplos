@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Copyright (c) 2023 Roberto Navarro (rnavarro.rnm@gmail.com)
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
